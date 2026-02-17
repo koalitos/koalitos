@@ -1,19 +1,109 @@
-## Olá eu sou Lucas Amaral!
 <div align="center">
-  <a href="https://github.com/koalitos">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=koalitos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koalitos&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div><br><br>
+
+```
+██╗     ██╗   ██╗ ██████╗ █████╗ ███████╗
+██║     ██║   ██║██╔════╝██╔══██╗██╔════╝
+██║     ██║   ██║██║     ███████║███████╗
+██║     ██║   ██║██║     ██╔══██║╚════██║
+███████╗╚██████╔╝╚██████╗██║  ██║███████║
+╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&pause=900&color=00FF66&center=true&vCenter=true&width=900&lines=PRESS+START+TO+BUILD;SaaS+Builder+%7C+Fullstack+Dev;Node%2FNest+%2B+React+%2B+Postgres;Deploy.+Scale.+Repeat." />
+
+</div>
+
+---
+
+## 🕹️ PLAYER PROFILE
+
+```txt
+NAME............. Lucas Amaral
+CLASS............ SaaS Builder / Fullstack Developer
+MODE............. Shipping
+FOCUS............ Products that solve real problems
+LOCATION......... Brazil (-03)
+```
+
+---
+
+## 📟 NOW PLAYING
+
+```diff
++ Retrix CI     -> CI/CD platform (Salesforce focused)
++ FinancePass   -> Finance + security toolkit (OpenSource)
+```
+
+---
+
+## 🎛️ LOADOUT (STACK)
+
 <div align="center">
-  <img align="center" alt="Koala-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Koala-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Koala-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Koala-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Koala-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div><br><br>
- <div align="center">
-  <a href="https://www.instagram.com/imcoala_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:lamaral.pro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-amaral-a99737162/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div><br>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,postgres,docker,linux,git,supabase,aws,css,prisma,jenkins,next,vercel" />
+</div>
+
+---
+
+## 🧾 QUEST LOG
+
+```txt
+[MAIN QUEST]
+- Build scalable SaaS products
+- Automate workflows end-to-end
+- Keep systems clean, fast, maintainable
+
+[SIDE QUESTS]
+- Improve UX + product polish
+- Build templates/tools that speed up shipping
+- Learn + document everything
+```
+
+---
+
+## 🏆 ACHIEVEMENTS (UNLOCKED)
+
+```txt
+[✔] Fullstack shipping mindset
+[✔] Clean Architecture enjoyer
+[✔] API design + auth patterns
+[✔] CI/CD automation habits
+[ ] Next unlock: Distribution + Growth loops
+```
+
+---
+
+## 🟩 SYSTEM STATUS
+
+<img src="https://komarev.com/ghpvc/?username=koalitos&color=00ff66&style=for-the-badge" />
+
+---
+
+## 🧰 TOOLBOX
+
+```txt
+Backend ....... Node.js | NestJS | REST | Auth
+Frontend ...... React | TypeScript | UI systems
+Database ...... PostgreSQL | Supabase
+Infra ......... Docker | Linux | GitHub Actions
+Mindset ....... Build -> Measure -> Iterate
+```
+
+---
+
+## ☎️ CONNECT (INSERT COIN)
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00FF66?style=for-the-badge&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/lucas-amaral-a99737162/)
+</div>
+
+---
+
+<div align="center">
+
+```txt
+© 1998 KOALITOS SYSTEMS — ALL RIGHTS RESERVED
+TIP: type "SHIP IT" to continue...
+```
+
+</div>
