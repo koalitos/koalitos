@@ -30,8 +30,9 @@ LOCATION......... Brazil (-03)
 ## 📟 NOW PLAYING
 
 ```diff
-+ Retrix CI     -> CI/CD platform (Salesforce focused)
-+ FinancePass   -> Finance + security toolkit (OpenSource)
++ Retrix CI      -> CI/CD platform (Salesforce focused) -> https://retrixci.com.br
++ Vaultfinance   -> Finance + security toolkit -> https://vaultfinance.com.br
++ Portfolio      -> https://lamaral.dev.br
 ```
 
 ---
