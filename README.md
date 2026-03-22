@@ -94,10 +94,10 @@ Mindset ....... Build -> Measure -> Iterate
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00FF66?style=for-the-badge&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/lucas-amaral-a99737162/)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0e76a8)](https://www.linkedin.com/in/lucas-amaral-a99737162/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00ff88)](https://lamaral.dev.br)
 [![RetrixCI](https://img.shields.io/badge/RetrixCi-8A2BE2)](https://retrixci.com.br)
-[![VaultFinance](https://img.shields.io/badge/VaultFinance-030712)](https://vaultfinance.com.br)
+[![VaultFinance](https://img.shields.io/badge/VaultFinance-4f46e5)](https://vaultfinance.com.br)
 
 </div>
 
